@@ -1,3 +1,12 @@
+# add ll
+DOMAIN-SUFFIX,12345.al
+DOMAIN-SUFFIX,qpic.ws
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,codeium.com
+# 这个域名最好走代理，我这边直连已超时
+DOMAIN-SUFFIX,tktn.be
+
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve

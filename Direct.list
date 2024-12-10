@@ -1,10 +1,15 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# add ll
+IP-CIDR,129.150.48.23/8,no-resolve
+DOMAIN-SUFFIX,oaifree.com
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,mobilefuse.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
@@ -586,3 +591,20 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# talkatone
+
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
